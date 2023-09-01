@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=scripterksg)](https://github.com/scripterksg/github-readme-stats)
 
 ![](https://github.com/ScripterKSG/ScripterKSG/blob/main/Social_dino_with_hat.gif)
 <!--
