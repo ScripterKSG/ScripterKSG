@@ -2,7 +2,7 @@
 
 - 🔭 Currently practicing intermediate and advanced SQL as well Kaggle competitions.
 - 🌱 Always reviewing and learning about bayesian statistics and machine learning models. Looking to learn data engineering.
-- 👯 Main interests are currently classical regression and classification model families, large language models / transformers, data visualization, and ethical use of data.
+- 👯 Main interests are classical regression and classification model families, large language models / transformers, data visualization, and ethical use of data.
 <!--
 **ScripterKSG/ScripterKSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
