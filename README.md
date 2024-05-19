@@ -1,6 +1,6 @@
 ### Aspiring Data Scientist 
 
-- 🔭 Currently practicing intermediate and advanced SQL as well Kaggle competitions.
+- 🔭 Practicing SQL through Leetcode, data science through Kaggle competitions.
 - 🌱 Always reviewing and learning about bayesian statistics and machine learning models. Looking to learn data engineering.
 - 👯 Main interests are classical regression and classification model families, large language models / transformers, data visualization, and ethical use of data.
 <!--
